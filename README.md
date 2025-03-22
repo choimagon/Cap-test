@@ -3,15 +3,15 @@
 <table>
   <tr>
     <td align="center">
-      <img src="outputM/kitti_0000_topview.gif" width="200"/><br/>
+      <img src="outputM/kitti_0000_topview.gif" width="300"/><br/>
       <p>kitti_0000_topview.gif</p>
     </td>
     <td align="center">
-      <img src="outputM/kitti_0001_topview.gif" width="200"/><br/>
+      <img src="outputM/kitti_0001_topview.gif" width="300"/><br/>
       <p>kitti_0001_topview.gif</p>
     </td>
     <td align="center">
-      <img src="outputM/kitti_0002_topview.gif" width="200"/><br/>
+      <img src="outputM/kitti_0002_topview.gif" width="300"/><br/>
       <p>kitti_0002_topview.gif</p>
     </td>
   </tr>
