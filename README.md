@@ -212,7 +212,7 @@
 ## 이미지 데이터 시각화(left img - p2)
 
 <div align="center">
-  <p>imgoutput.gif </p>
+  <p>imgoutput.gif[용량때문에 이미지 사이즈 절반]</p>
   <img src="imgoutput.gif" width="600"/><br/>
 </div>
 
