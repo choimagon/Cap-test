@@ -204,3 +204,8 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="lidar_animation.gif" width="300"/><br/>
+</div>
+
+
