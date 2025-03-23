@@ -1,3 +1,8 @@
+## 진행 사항
+1. 각 데이터 별 시각화
+2. 이미지, 라이다 정보를 사용하여 실제 좌표 체크
+
+
 ## KITTI GIF출력 결과(모든 오브젝트 포함)
 
 <table>
@@ -203,6 +208,13 @@
     </td>
   </tr>
 </table>
+
+## 이미지 데이터 시각화(left img - p2)
+
+<div align="center">
+  <p>imgoutput.gif </p>
+  <img src="imgoutput.gif" width="600"/><br/>
+</div>
 
 ## 라이다 데이터 시각화
 
