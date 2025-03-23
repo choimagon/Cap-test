@@ -203,7 +203,8 @@
     </td>
   </tr>
 </table>
-## 라이다 데이터 
+
+## 라이다 데이터 시각화
 
 <div align="center">
   <p>lidar_animation.gif </p>
