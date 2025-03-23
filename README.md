@@ -212,6 +212,6 @@
 </div>
 
 ## 라이다 데이터와 카메라 켈리브레이션 통해 이미지에서 라이다 정보 가져오기
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/4d946b98-302c-4a1b-ae7a-de60990847c0" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/4d946b98-302c-4a1b-ae7a-de60990847c0" />
 
 
