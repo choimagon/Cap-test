@@ -226,4 +226,22 @@
 ## 라이다 데이터와 카메라 켈리브레이션 통해 이미지에서 라이다 정보 가져오기
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/4d946b98-302c-4a1b-ae7a-de60990847c0" />
 
+## yolo-pose 와 그냥 yolo kitti 데이터셋
+<table>
+  <tr>
+    <td align="center">
+      ![image](https://github.com/user-attachments/assets/12b53d59-d92c-41a8-bc90-072a76e44da7)
+      <p>yolo v8x pose</p>
+    </td>
+    <td align="center">
+      <img src="outputP/kitti_0001_topview.gif" width="300"/><br/>
+      <p>kitti_0001_topview.gif</p>
+    </td>
+    <td align="center">
+      <img src="outputP/kitti_0002_topview.gif" width="300"/><br/>
+      <p>kitti_0002_topview.gif</p>
+    </td>
+  </tr>
+
+
 
