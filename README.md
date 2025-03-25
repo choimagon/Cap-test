@@ -254,5 +254,5 @@
 
 대략 구조 공개
 <table>
-  <img width="112" alt="image" src="https://github.com/user-attachments/assets/8406081e-d696-45ef-929d-644d2e49dd49" />
+  <img width="200" alt="image" src="https://github.com/user-attachments/assets/8406081e-d696-45ef-929d-644d2e49dd49" />
 </table>
