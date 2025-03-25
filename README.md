@@ -241,13 +241,13 @@
       <img src="yolo11x.png" width="300"/><br/>
       <p>yolo v11x pose</p>
     </td>
-    </tr>
-      <td align="center">
-        <img src="yolo11n.png" width="300"/><br/>
-        <p>yolo v11n </p>
-      </td>
-    <tr>
-  </tr
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="yolo11n.png" width="300"/><br/>
+      <p>yolo v11n </p>
+    </td>
+  </tr>
 </table>
 
 ## 욜로 베이스 라인 잡아둠.(아직 미공개)
