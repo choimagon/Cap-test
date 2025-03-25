@@ -230,18 +230,24 @@
 <table>
   <tr>
     <td align="center">
-      ![image](https://github.com/user-attachments/assets/12b53d59-d92c-41a8-bc90-072a76e44da7)
+      <img src="yolov8x.png" width="300"/><br/>
       <p>yolo v8x pose</p>
     </td>
     <td align="center">
-      <img src="outputP/kitti_0001_topview.gif" width="300"/><br/>
-      <p>kitti_0001_topview.gif</p>
+      <img src="yolov8x-p6.png" width="300"/><br/>
+      <p>yolo v8x p6 pose</p>
     </td>
     <td align="center">
-      <img src="outputP/kitti_0002_topview.gif" width="300"/><br/>
-      <p>kitti_0002_topview.gif</p>
+      <img src="yolo11x.png" width="300"/><br/>
+      <p>yolo v11x pose</p>
     </td>
   </tr>
-
+    <td align="center">
+      <img src="yolo11n.png" width="300"/><br/>
+      <p>yolo v11n </p>
+    </td>
+  <tr>
+  </tr
+</table>
 
 
