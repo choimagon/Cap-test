@@ -250,4 +250,8 @@
   </tr
 </table>
 
+## 욜로 베이스 라인 잡아둠.(아직 미공개)
+
+대략 구조 공개
+<img width="112" alt="image" src="https://github.com/user-attachments/assets/8406081e-d696-45ef-929d-644d2e49dd49" />
 
