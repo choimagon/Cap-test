@@ -1,5 +1,5 @@
 ## 📌 목차
-
+python3 -m monoloco.run predict docs/002282.png -o results/ --long-edge 512 --n_dropout 50 --show_all
 - [진행 사항](#진행-사항)
 - [KITTI GIF 출력 결과 (전체)](#kitti-gif출력-결과모든-오브젝트-포함)
 - [KITTI GIF 출력 결과 (보행자)](#kitti-gif출력-결과보행자만)
